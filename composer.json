@@ -3,7 +3,7 @@
     "description": "php_framework is a Simple PHP micro framework",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "autoload": {
         "psr-4": {
             "PhpFramework\\": "src/"
@@ -12,7 +12,7 @@
     "authors": [
         {
             "name": "kyoungkyoung",
-            "email": "wkjang4@gmail.com"
+            "email": "wkjangS4@gmail.com"
         }
     ],
     "require": {}
