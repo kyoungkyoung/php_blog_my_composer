@@ -1,0 +1,18 @@
+{
+    "name": "wkjang3/php_framework",
+    "description": "php_framework is a Simple PHP micro framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kyoungkyoung",
+            "email": "wkjang4@gmail.com"
+        }
+    ],
+    "require": {}
+}
